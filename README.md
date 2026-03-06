@@ -1,16 +1,23 @@
-## Hi there 👋
+## Security Researcher – Automation Detection & Abuse Prevention
 
-<!--
-**REGeneral/REGeneral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on analyzing automated traffic and studying techniques used in bot mitigation systems.
 
-Here are some ideas to get you started:
+My work explores:
+```
+Browser fingerprint consistency
+HTTP protocol anomalies
+Automation framework detection
+Authentication flow analysis
+Abuse and fraud prevention systems  
+```
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Browser Consistency & Bot Risk Engine
+
+Detects automated traffic through protocol and browser consistency analysis.
+
+## Research Interests
+Bot detection systems  
+Fraud prevention infrastructure  
+Browser fingerprinting  
+Automation framework analysis
