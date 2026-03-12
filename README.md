@@ -13,9 +13,10 @@ Abuse and fraud prevention systems
 ## Featured Projects
 
 Browser Consistency & Bot Risk Engine
-
 Detects automated traffic through protocol and browser consistency analysis.
 
+Credential Stuffing Simulator
+Bot mitigation demo using progressive sensor data collection, risk scoring and login abuse detection.
 ## Research Interests
 Bot detection systems  
 Fraud prevention infrastructure  
